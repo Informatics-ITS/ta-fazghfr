@@ -28,44 +28,18 @@
    ```bash
    git clone https://github.com/Informatics-ITS/TA.git
    ```
-2. **Instalasi Dependensi**
-   ```bash
-   cd [folder-proyek]
-   pip install -r requirements.txt  # Contoh untuk Python
-   npm install  # Contoh untuk Node.js
-   ```
-3. **Konfigurasi**
-- Salin/rename file .env.example menjadi .env
-- Isi variabel lingkungan sesuai kebutuhan (database, API key, dll.)
-4. **Jalankan Aplikasi**
-   ```bash
-   python main.py  # Contoh untuk Python
-   npm start      # Contoh untuk Node.js
-   ```
-5. Buka browser dan kunjungi: `http://localhost:3000` (sesuaikan dengan port proyek Anda)
-
+2. **Jalankan Server.py pada backend**
+   Ini akan melakukan proses running untuk server, yang akan load keempat model
+3. **Jalankan frontend dengan pnpm run dev**
+   Ini akan menjalankan service frontend
+5. Buka browser dan kunjungi: `http://localhost:3000` 
 ---
 
-## 📚 Dokumentasi Tambahan
 
-- [![Dokumentasi API]](docs/api.md)
-- [![Diagram Arsitektur]](docs/architecture.png)
-- [![Struktur Basis Data]](docs/database_schema.sql)
 
----
-
-## ✅ Validasi
-
-Pastikan proyek memenuhi kriteria berikut sebelum submit:
-- Source code dapat di-build/run tanpa error
-- Video demo jelas menampilkan fitur utama
-- README lengkap dan terupdate
-- Tidak ada data sensitif (password, API key) yang ter-expose
-
----
 
 ## ⁉️ Pertanyaan?
 
 Hubungi:
 - Penulis: fauzanalghifari963@gmail.com
-- Pembimbing Utama: 
+- Pembimbing Utama: shintami@its.ac.id
