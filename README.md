@@ -1,9 +1,13 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
 **Nama Mahasiswa**: Ahmad Fauzan Alghifari
+
 **NRP**: 5025211091
+
 **Judul TA**: KLASIFIKASI KEPRIBADIAN MENGGUNAKAN DYNAMIC DEEP GRAPH CONVOLUTIONAL NETWORK DENGAN AUGMENTASI DATA BERBASIS LARGE LANGUAGE MODEL
+
 **Dosen Pembimbing**: Shintami Chusnul Hidayati, S.Kom., M.Sc., Ph.D.
+
 **Dosen Ko-pembimbing**: -
 
 ---
