@@ -1,17 +1,17 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Ahmad Fauzan Alghifari
+**NRP**: 5025211091
+**Judul TA**: KLASIFIKASI KEPRIBADIAN MENGGUNAKAN DYNAMIC DEEP GRAPH CONVOLUTIONAL NETWORK DENGAN AUGMENTASI DATA BERBASIS LARGE LANGUAGE MODEL
+**Dosen Pembimbing**: Shintami Chusnul Hidayati, S.Kom., M.Sc., Ph.D.
+**Dosen Ko-pembimbing**: -
 
 ---
 
 ## 📺 Demo Aplikasi  
 Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):  
 
-[![Demo Aplikasi](https://i.ytimg.com/vi/zIfRMTxRaIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
+[![Demo Aplikasi](https://i.ytimg.com/vi/zIfRMTxRaIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=ONg10NYy7k8)  
 *Klik gambar di atas untuk menonton demo*
 
 ---
@@ -19,13 +19,6 @@ Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
 *Konten selanjutnya hanya merupakan contoh awalan yang baik. Anda dapat berimprovisasi bila diperlukan.*
 
 ## 🛠 Panduan Instalasi & Menjalankan Software  
-
-### Prasyarat  
-- Daftar dependensi (contoh):
-  - Python 3.10+
-  - Node.js v18+
-  - MySQL 8.0
-  - [Lainnya...]
 
 ### Langkah-langkah  
 1. **Clone Repository**  
@@ -71,5 +64,5 @@ Pastikan proyek memenuhi kriteria berikut sebelum submit:
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: [email@mahasiswa]
-- Pembimbing Utama: [email@pembimbing]
+- Penulis: fauzanalghifari963@gmail.com
+- Pembimbing Utama: 
